@@ -7,7 +7,7 @@ class DataIngestionArtifact:
     test_file_path:str
 
 
-"""@dataclass
+@dataclass
 class DataValidationArtifact:
     validation_status:bool
     message: str
@@ -30,7 +30,7 @@ class ModelTrainerArtifact:
     trained_model_file_path:str 
     metric_artifact:ClassificationMetricArtifact
 
-@dataclass
+""" @dataclass
 class ModelEvaluationArtifact:
     is_model_accepted:bool
     changed_accuracy:float
