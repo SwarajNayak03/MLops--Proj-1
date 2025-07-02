@@ -30,7 +30,7 @@ class ModelTrainerArtifact:
     trained_model_file_path:str 
     metric_artifact:ClassificationMetricArtifact
 
-""" @dataclass
+@dataclass
 class ModelEvaluationArtifact:
     is_model_accepted:bool
     changed_accuracy:float
@@ -40,4 +40,4 @@ class ModelEvaluationArtifact:
 @dataclass
 class ModelPusherArtifact:
     bucket_name:str
-    s3_model_path:str """
+    s3_model_path:str 
