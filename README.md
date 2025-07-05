@@ -1,4 +1,3 @@
-Here’s an **impressive, recruiter-friendly README** for your project—clear, professional, and showing MLOps depth while staying easy to scan:
 
 ---
 
