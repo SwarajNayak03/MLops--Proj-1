@@ -64,24 +64,4 @@ This project is designed to impress recruiters and employers by showcasing hands
 * ✅ Professional-Grade Logging, Monitoring & Deployment
 * ✅ GitHub Actions for Seamless Auto-Deployment
 
----
-
-## 🎯 Why This Project Stands Out
-
-* Designed for **real-world production scenarios**.
-* Fully **modular**—components easily extendable or replaceable.
-* Optimized for **demonstrating MLOps skills to recruiters**.
-
----
-
-# Set up environment
-conda create -n vehicle python=3.10 -y
-conda activate vehicle
-pip install -r requirements.txt
-
-# Follow README sections for MongoDB, AWS, and deployment
-```
-
 -
-
-
